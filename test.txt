@@ -1,0 +1,2 @@
+A test is being edited to commit and to test.
+A line is added from the remote repository
